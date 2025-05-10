@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\game\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|D:\\game\\Project1\\Project1\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|D:\\game\\Project1\\Project1\\snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|solutionrelative:Project1\\snake.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|D:\\game\\Project1\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|D:\\game\\Project1\\Project1\\GameLayOut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|solutionrelative:Project1\\GameLayOut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|D:\\game\\Project1\\Project1\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|solutionrelative:Project1\\snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|D:\\game\\Project1\\Project1\\gamelayout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|solutionrelative:Project1\\gamelayout.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|D:\\game\\Project1\\Project1\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6AC71836-AEE8-439D-8666-22C242E30146}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 378,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a2eaf38f-a0ad-4503-91f8-5f004a69a040}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\game\\Project1\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "D:\\game\\Project1\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T04:22:33.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "snake.cpp",
+              "DocumentMoniker": "D:\\game\\Project1\\Project1\\SNAKE.CPP",
+              "RelativeDocumentMoniker": "Project1\\SNAKE.CPP",
+              "ToolTip": "D:\\game\\Project1\\Project1\\SNAKE.CPP",
+              "RelativeToolTip": "Project1\\SNAKE.CPP",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T04:16:30.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\game\\Project1\\Project1\\Game.cpp",
+              "RelativeDocumentMoniker": "Project1\\Game.cpp",
+              "ToolTip": "D:\\game\\Project1\\Project1\\Game.cpp",
+              "RelativeToolTip": "Project1\\Game.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T04:04:14.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\game\\Project1\\Project1\\Game.h",
+              "RelativeDocumentMoniker": "Project1\\Game.h",
+              "ToolTip": "D:\\game\\Project1\\Project1\\Game.h",
+              "RelativeToolTip": "Project1\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T04:02:06.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gamelayout.cpp",
+              "DocumentMoniker": "D:\\game\\Project1\\Project1\\gamelayout.cpp",
+              "RelativeDocumentMoniker": "Project1\\gamelayout.cpp",
+              "ToolTip": "D:\\game\\Project1\\Project1\\gamelayout.cpp",
+              "RelativeToolTip": "Project1\\gamelayout.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T02:40:05.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "snake.h",
+              "DocumentMoniker": "D:\\game\\Project1\\Project1\\snake.h",
+              "RelativeDocumentMoniker": "Project1\\snake.h",
+              "ToolTip": "D:\\game\\Project1\\Project1\\snake.h",
+              "RelativeToolTip": "Project1\\snake.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T02:34:57.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameLayOut.h",
+              "DocumentMoniker": "D:\\game\\Project1\\Project1\\GameLayOut.h",
+              "RelativeDocumentMoniker": "Project1\\GameLayOut.h",
+              "ToolTip": "D:\\game\\Project1\\Project1\\GameLayOut.h",
+              "RelativeToolTip": "Project1\\GameLayOut.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T02:34:02.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 639,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
